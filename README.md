@@ -8,10 +8,7 @@ Sending Domoticz notifies to Telegram through proxy.
 
 3. Create folder ~/domoticz/scripts/customscripts/telegram/... and create file telegramnotify.py
 
-4. Add permissions to this file: 
-```
-:~$ sudo chmod +x telegramnotify.py
-```
+4. Add permissions to this file: `:~$ sudo chmod +x telegramnotify.py`
 
 5. In Domoticz Settings:
 Setup -> Settings -> Notifications -> Custom HTTP/Action:
