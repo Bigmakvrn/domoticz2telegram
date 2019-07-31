@@ -1,5 +1,4 @@
 # Domoticz2Telegram
-=========================
 Скрипт позволяет отправлять сообщения из Domoticz в Telegram вашему боту, используя proxy.
 
 ## Установка
@@ -16,9 +15,9 @@
 
 5. В настройках Domoticz
 Setup -> Settings -> Notifications -> Custom HTTP/Action:
- - Enabled: on
- - URL/Action: script://customscripts/telegram/telegramnotify.py #MESSAGE
- - Apply Settings
+ * Enabled: on
+ * URL/Action: script://customscripts/telegram/telegramnotify.py #MESSAGE
+ * Apply Settings
 
 6. У датчиков/сенсоров/переключателей... выбрать метод оповещения 'http'.
 
