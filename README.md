@@ -34,7 +34,7 @@ In Telegram chat you will get a message:
 ```
 
 ## Requirements
-* Requests v2.21.0 (installing: pip install requests)
+* Requests version **2.21.0** or higher (installing: pip install requests)
 
 ## License
 MIT License (MIT)
